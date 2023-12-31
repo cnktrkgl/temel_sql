@@ -1,2 +1,2 @@
-# temel_sql
+# Temel SQL
 Temel SQL çalışmaları.
