@@ -1,0 +1,3 @@
+-- SQL MANAGEMENT Studio sýfýrdan çalýþtýrýrken :
+-- VT adýna sað týkla, properties, files, owner sa yap
+-- Tools, options, designer, prevent saving changes that require table recreation tikini kaldýr
